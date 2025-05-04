@@ -16,6 +16,8 @@ A simple Flask web app and CLI tool that generates strong, unique passwords base
 
 ## 🖥️ How to Use
 
+  - Pass throught the link https://regisfreeman.github.io/password-generator/
+
 ### 🔸 Web App (Flask)
 
 1. Install Flask:
